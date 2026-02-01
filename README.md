@@ -17,17 +17,19 @@ This project analyzes credit card transaction data using Power BI to understand 
 
 ## Dashboards
 
-### Dashboard 1 – Customer Overview
-- Customer distribution by gender and age group
-- Income group analysis
-- KPI cards for total transactions and customers
-- Interactive slicers for gender, age group, and income
+### Dashboard 1 – Credit Card Customer Performance Dashboard
+- KPIs: Total Transaction Amount, Total Transactions, Total Annual Fees, Total Interest Earned
+- Weekly transaction amount trend
+- Transaction analysis by expense type, card category, age group, and gender
+- Interactive slicers for card category, income group, expense type, and gender
 
 ### Dashboard 2 – Credit Card Transaction Report
-- Spending analysis by category
-- Weekly transaction trends
-- Gender-based transaction comparison
-- KPI cards for total spend and transaction count
+- KPIs: Total Transaction Amount, Average Transaction Value, Total Transactions, Average Credit Limit
+- Weekly transaction amount trend (Male vs Female comparison)
+- Weekly transaction count
+- Spending category analysis
+- Gender-based transaction and average value comparison
+
 
 ## Key Insights
 - Higher income groups contribute significantly to total spending
@@ -35,9 +37,11 @@ This project analyzes credit card transaction data using Power BI to understand 
 - Spending behavior varies across weeks and demographics
 
 ## Challenges Faced
-- Handling missing values in date-related columns
-- Managing slicer interactions across visuals
-- Designing a clean and professional dashboard layout
+- Designing dual dashboards with clear analytical separation
+- Implementing gender-based trend comparison
+- Maintaining visual consistency and professional alignment
+- Optimizing slicers and tooltips for better user interaction
+
 
 ## Files
 - Power BI (.pbix) file
