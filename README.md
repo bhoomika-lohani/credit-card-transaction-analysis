@@ -4,8 +4,6 @@
 This project analyzes credit card transaction data using **Power BI** to understand customer spending behavior, transaction trends, and demographic patterns.  
 The dashboards are designed to be **interactive, insightful, and professional**, enabling users to explore data across time, spending categories, gender, age groups, and income groups.
 
----
-
 ## Objective
 - Analyze credit card transactions across **gender, age group, and income group**
 - Identify key **spending patterns by expense category**
@@ -13,15 +11,11 @@ The dashboards are designed to be **interactive, insightful, and professional**,
 - Compare **male vs female transaction behavior**
 - Build **interactive dashboards** to support business decision-making
 
----
-
 ## Tools Used
 - **Power BI**
 - **Power Query**
 - **DAX**
 - **Microsoft Excel**
-
----
 
 ## Dashboards
 
@@ -45,8 +39,6 @@ This dashboard focuses on **overall customer performance and spending distributi
   - Expense Type  
   - Gender  
 
----
-
 ### Dashboard 2 – Credit Card Transaction Report
 This dashboard focuses on **detailed transaction behavior and comparison analysis**.
 
@@ -66,16 +58,12 @@ This dashboard focuses on **detailed transaction behavior and comparison analysi
   - Expense Type  
   - Gender  
 
----
-
 ## Interactivity & Features
 - Dynamic slicers for real-time filtering
 - Tooltips added to key charts for additional context
 - Gender-based trend comparison using multiple trend lines
 - Consistent formatting, alignment, and color theme
 - Clean and professional layout design
-
----
 
 ## Screenshots
 Screenshots of the final dashboards are available in the **`screenshots`** folder:
@@ -85,8 +73,6 @@ Screenshots of the final dashboards are available in the **`screenshots`** folde
 - `03_transaction_report_overview.png` – Transaction Report overview  
 - `04_transaction_report_gender_analysis.png` – Gender-based transaction analysis  
 
----
-
 ## Key Insights
 - Bills and Entertainment are the **highest spending categories**
 - Male customers contribute more to **total transaction amount**
@@ -94,25 +80,16 @@ Screenshots of the final dashboards are available in the **`screenshots`** folde
 - Certain weeks show higher transaction activity, indicating **seasonal trends**
 - Middle-aged customer groups (35–54) contribute the most to spending
 
----
-
 ## Challenges Faced
 - Handling missing and inconsistent data
 - Managing slicer interactions across multiple visuals
 - Maintaining clarity while adding multiple charts
 - Designing a dashboard that is both **informative and visually professional**
 
----
-
 ## Files Included
-- `Credit_Card_Transaction_Analysis.pbix` – Power BI dashboard file  
-- `screenshots/` – Dashboard screenshots  
-- `README.md` – Project documentation  
-
----
+- Power BI dashboard file  
+- Dashboard screenshots   
 
 ## Conclusion
 This project demonstrates the ability to transform raw transaction data into **actionable business insights** using Power BI.  
 It showcases skills in **data modeling, DAX, dashboard design, and interactive analytics**, making it suitable for portfolio and real-world business analysis use cases.
-
-
