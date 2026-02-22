@@ -59,17 +59,17 @@ This dashboard helps to analyze how customers spend and how transaction activity
   - Utilization ratio
   - Transaction growth %
 - Visuals:
- - Monthly transaction trend by gender
- - Weekly transaction count
- - Transaction amount by expense category 
- - Transaction share bt payment method
- - Average transaction value by card category
+  - Monthly transaction trend by gender
+  - Weekly transaction count
+  - Transaction amount by expense category 
+  - Transaction share bt payment method
+  - Average transaction value by card category
 - Filters:
-  - Date
-  - Gender
-  - Card category
-  - Expense type
-  - Payment method
+   - Date
+   - Gender
+   - Card category
+   - Expense type
+   - Payment method
 
 ## Interactivity & Features
 - All visuals respond to slicer selections.
@@ -77,7 +77,7 @@ This dashboard helps to analyze how customers spend and how transaction activity
 - Trend comparison between male and female customers.
 
 ## Screenshots
-Screenshots of the final dashboards are available in the **`screenshots`** folder:
+Screenshots of the final dashboards are available in the screenshots folder:
 
 - 01 - Customer overview (default view)
 - 02 - Customer overview (with filters applied)
