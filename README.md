@@ -34,18 +34,18 @@ This dashboard focuses to understand customer segments and risk patterns.
   - Average satisfaction score
   - Delinquency rate
 - Visuals:
- - Customer distribution by gender
- - Customer distribution by age group
- - Customer distribution by income group
- - Average credit limit by income group
- - Deliquency rate by age group
- - Average income comparison by gender
+  - Customer distribution by gender
+  - Customer distribution by age group
+  - Customer distribution by income group
+  - Average credit limit by income group
+  - Deliquency rate by age group
+  - Average income comparison by gender
 - Filters:
- - Gender
- - Age group
- - Income group
- - Card category
- - Date
+  - Gender
+  - Age group
+  - Income group
+  - Card category
+  - Date
 
 ### Dashboard 2 – Transaction Report
 This dashboard helps to analyze how customers spend and how transaction activity changes over time.
