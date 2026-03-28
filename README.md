@@ -36,7 +36,7 @@ This dashboard focuses to understand customer segments and risk patterns.
 - Visuals:
   - Customer distribution by gender
   - Customer distribution by age group
-  - Customer distribution by income group
+  - Customer distribution by education 
   - Average credit limit by income group
   - Deliquency rate by age group
   - Average income comparison by gender
@@ -56,13 +56,13 @@ This dashboard helps to analyze how customers spend and how transaction activity
   - Transaction count
   - Average Transaction Value  
   - Total Interest earned
-  - Utilization ratio
   - Transaction growth %
 - Visuals:
-  - Monthly transaction trend by gender
-  - Weekly transaction count
-  - Transaction amount by expense category 
-  - Transaction share bt payment method
+  - Transcation trend over time
+  - Customer spend vs risk segmentation
+  - Top 10 customers by total spend
+  - Transaction amount by expense category
+  - Transaction share by payment method
   - Average transaction value by card category
 - Filters:
    - Date
