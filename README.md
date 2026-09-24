@@ -1,4 +1,4 @@
-# Credit Card Customer & Transaction Analysis - Power BI
+# Credit Card Customer & Transaction Analysis - Power BI 
 
 ## Overview
 This project delivers two interactive Power BI dashboards that analyze customer demographics and transaction behavior for a credit card portfolio. It enables performance tracking across gender, income group, age group, card category, and spending category.
